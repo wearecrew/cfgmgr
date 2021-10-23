@@ -1,7 +1,6 @@
 import click
 
 import os
-from pathlib import Path
 
 from cryptography.fernet import Fernet
 from cryptography.fernet import InvalidToken
